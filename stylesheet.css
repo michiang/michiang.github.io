@@ -1,0 +1,122 @@
+body {
+  background-color: white;
+}
+
+<style>
+.navbar {
+  background: rgba(255, 255, 255, .92);
+  border-bottom: 0px;
+  box-shadow: 0px 1px 0px 1px rgba(62, 62, 62, 0.2);
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #004566;
+  text-transform: capitalize;
+  font-family: Open Sans Condensed
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>li>a:hover {
+  background: none;
+  color: #73A7F7;
+}
+
+.navbar-default .navbar-brand {
+  font-family: Open Sans Condensed;
+  font-weight: 500;
+  color: #004566;
+}
+
+.navbar-default .navbar-brand:hover {
+  color: #73A7F7;
+}
+a {
+  color: #004566;
+}
+
+a:hover,
+a:active,
+a:focus {
+  color: #004566;
+  outline: none;
+}
+.anchor {
+  margin-top: -40px;
+  padding-top: 40px;
+}
+.jumbotron {
+  background: url(http://dyslexia.io/images/m_desk_and_coffee.jpeg) no-repeat center center fixed;
+  background-size: cover;
+  margin-bottom: 30px;
+  margin-top: 0px;
+  padding: 160px 0px;
+  margin-bottom: 0px;
+  text-shadow: 0px 0px 1px;
+  text-align: center;
+  rgba(0, 0, 0, .5);
+}
+.white-text {
+  color: black;
+}
+
+  h1, h2, p {
+    font-family: Open Sans Condensed;
+  }
+
+/*--- PORTFOLIO ---*/
+.content-section .thumbnail { position: relative; 
+overflow: hidden; 
+cursor: pointer; }
+.content-section .thumbnail * { transition: all .25s; }
+.content-section .thumbnail h4 { font-size: 19px; 
+font-weight: 400; }
+.content-section .thumbnail p { line-height: 24px; }
+.content-section .thumbnail:hover h4, .content-section .thumbnail:hover p { 
+color: #AFAFAF; }
+.content-section .thumbnail:hover img {
+opacity: 0.25;  
+}
+.content-section .thumbnail:after { 
+font-family: 'FontAwesome'; content: '\f121'; 
+color: #FFF; 
+font-size: 48px; 
+line-height: 80px; top: 70%; position: absolute; text-align: center; display: inline-block; width: 100%; transition: all .35s; opacity: 0; width: 86px; height: 86px; margin-left: auto; margin-right: auto; left: 0; right: 0; border-radius: 50%; background: transparent; border:3px solid transparent; }
+.content-section .thumbnail:hover:after { top: 20%; opacity: 1; color: #FFFFFF; background: #AF6204; border:3px solid #FFFFFF; }
+
+/*--- CONTACT ---*/
+#contact {
+  background: url('http://hdwallpaperbook.com/wp-content/gallery/professional-background-images/featured47@wdd2x.jpg') no-repeat top center fixed;
+  background-size: cover;
+}
+
+.social-cont { max-width: 700px; }
+a.btn-default { height: 44px; border-radius: 0; border: 0; width: 230px; text-align: left; margin: 0 50px 10px 0; position: relative; background-color: #FFFFFF; padding: 10px; transition: all .25s; padding: 0; line-height: 45px; overflow: hidden; }
+a.btn-default i { display: block; float: left; position: absolute; left: 12px; top: 10px; font-size: 26px; color: #FFFFFF; position: relative; z-index: 1;  }
+a.btn-default span { position: relative; z-index: 1; padding-left: 50px; }
+a.btn-default:after { content: ''; display: block; width: 45px; height: 44px; position: absolute; top: 0; left: 0; z-index: 0; transition: all .35s; }
+a.twitter-btn:after { background-color: #55ACEE; }
+a.github-btn:after { background-color: #171515; }
+a.btn-default:hover, a.btn-default: focus { background-color: #FFFFFF; color: #FFFFFF; }
+a.btn-default:hover:after { width: 100%; }
+  
+</style>
+/*<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
+
+<link rel="canonical" href="michaelhchiang.github.io/">
+
+<link rel="stylesheet" href="/css/bootstrap.min.css">
+
+<link rel="stylesheet" href="/css/clean-blog.css">
+
+<link rel="stylesheet" href="/css/syntax.css">
+
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+<link href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+
+<link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+
+*/
