@@ -74,7 +74,8 @@ h1 {
 
 .image { height:200px; width: 200px;
 background-position:top left; }
-
+.image2 { height:200px; width: 200px;
+background-position:top left; }
 
 /*--- PORTFOLIO ---*/
 .content-section .thumbnail { position: relative; 
