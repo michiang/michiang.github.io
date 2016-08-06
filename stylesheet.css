@@ -50,21 +50,31 @@ a:focus {
 .jumbotron {
   background: url(http://dyslexia.io/images/m_desk_and_coffee.jpeg) no-repeat center center fixed;
   background-size: cover;
-  margin-bottom: 30px;
+  margin-bottom: 1000px;
   margin-top: 0px;
-  padding: 500px 0px;
-  margin-bottom: 0px;
+  padding: 1000px 400px;
   text-shadow: 0px 0px 1px;
   text-align: center;
-  rgba(0, 0, 0, .5);
 }
 .white-text {
-  color: black;
+  color: white;
+}
+
+h1 {
+  color: white;
 }
 
   h1, h2, p {
     font-family: Open Sans Condensed;
   }
+
+  h2 {
+    font-size: 90px;
+  }
+
+.image { height:200px; width: 200px;
+background-position:top left; }
+
 
 /*--- PORTFOLIO ---*/
 .content-section .thumbnail { position: relative; 
@@ -103,20 +113,4 @@ a.btn-default:hover, a.btn-default: focus { background-color: #FFFFFF; color: #F
 a.btn-default:hover:after { width: 100%; }
   
 </style>
-/*<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
 
-<link rel="canonical" href="michaelhchiang.github.io/">
-
-<link rel="stylesheet" href="/css/bootstrap.min.css">
-
-<link rel="stylesheet" href="/css/clean-blog.css">
-
-<link rel="stylesheet" href="/css/syntax.css">
-
-<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-
-<link href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-
-<link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
-
-*/
