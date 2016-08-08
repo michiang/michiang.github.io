@@ -77,7 +77,8 @@ background-position: center;
 margin-left: 80px;}
 .image2 { height:280px; width: 280px;
 background-position:top left;
-margin-left: 60px;}
+margin-left: 60px;
+margin-right: 80px;}
 
 /*--- PORTFOLIO ---*/
 .content-section .thumbnail { position: relative; 
