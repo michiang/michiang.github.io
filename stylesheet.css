@@ -114,7 +114,7 @@ a.btn-default:after { content: ''; display: block; width: 45px; height: 44px; po
 a.twitter-btn:after { background-color: #55ACEE; }
 a.github-btn:after { background-color: #171515; }
 a.linkedin-btn:after { background-color: #0077B5; }
-a.facebook-btn:after { background-color: #3b5998; }
+a.facebook-btn:after { background-color: #3B5998; }
 a.btn-default:hover, a.btn-default: focus { background-color: #FFFFFF; color: #FFFFFF; }
 a.btn-default:hover:after { width: 100%; }
   
