@@ -73,9 +73,11 @@ h1 {
   }
 
 .image { height:200px; width: 200px;
-background-position:top left; }
+background-position: center; 
+margin-left: 80px;}
 .image2 { height:280px; width: 280px;
-background-position:top left; }
+background-position:top left;
+margin-left: 60px;}
 
 /*--- PORTFOLIO ---*/
 .content-section .thumbnail { position: relative; 
