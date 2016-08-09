@@ -110,7 +110,7 @@ line-height: 80px; top: 70%; position: absolute; text-align: center; display: in
   background-size: cover;
 }
 
-.social-cont { max-width: 700px; text-align: center; }
+.social-cont { max-width: 700px; text-align: left; }
 a.btn-default { height: 44px; border-radius: 0; border: 0; width: 230px; text-align: left; margin: 0 50px 10px 0; position: relative; background-color: #FFFFFF; padding: 10px; transition: all .25s; padding: 0; line-height: 45px; overflow: hidden; }
 a.btn-default i { display: block; float: left; position: absolute; left: 12px; top: 10px; font-size: 26px; color: #FFFFFF; position: relative; z-index: 1;  }
 a.btn-default span { position: relative; z-index: 1; padding-left: 50px; }
