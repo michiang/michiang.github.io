@@ -79,6 +79,10 @@ margin-left: 80px;}
 background-position:top left;
 margin-left: 60px;
 margin-right: 80px;}
+.image3 { height: 200px; width: 200px;
+background-position: center;
+margin-left: 80px;
+margin-top: 80px;}
 
 /*--- PORTFOLIO ---*/
 .content-section .thumbnail { position: relative; 
