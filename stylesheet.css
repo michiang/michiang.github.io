@@ -106,7 +106,7 @@ line-height: 80px; top: 70%; position: absolute; text-align: center; display: in
 
 /*--- CONTACT ---*/
 #contact {
-  background: url('http://hdwallpaperbook.com/wp-content/gallery/professional-background-images/featured47@wdd2x.jpg') no-repeat top center fixed;
+  background: url(http://hdwallpaperbook.com/wp-content/gallery/professional-background-images/featured47@wdd2x.jpg) no-repeat top center fixed;
   background-size: cover;
 }
 
