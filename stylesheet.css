@@ -48,7 +48,7 @@ a:focus {
   padding-top: 40px;
 }
 .jumbotron {
-  background: url(http://dyslexia.io/images/m_desk_and_coffee.jpeg) no-repeat center center fixed;
+  background: url(https://images4.alphacoders.com/671/671021.jpg) no-repeat center center fixed;
   background-size: cover;
   margin-bottom: 1000px;
   margin-top: 0px;
@@ -57,11 +57,11 @@ a:focus {
   text-align: center;
 }
 .white-text {
-  color: white;
+  color: black;
 }
 
 h1 {
-  color: white;
+  color: black;
 }
 
   h1, h2, p {
