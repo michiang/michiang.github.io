@@ -50,7 +50,7 @@ a:focus {
 .jumbotron {
   background: url(https://images4.alphacoders.com/671/671021.jpg) no-repeat center center fixed;
   background-size: cover;
-  margin-bottom: 1000px;
+  margin-bottom: 2000px;
   margin-top: 0px;
   padding: 1000px 400px;
   text-shadow: 0px 0px 1px;
@@ -106,7 +106,7 @@ line-height: 80px; top: 70%; position: absolute; text-align: center; display: in
 
 /*--- CONTACT ---*/
 #contact {
-  background: url(hhttps://images4.alphacoders.com/671/671021.jpg) no-repeat top center fixed;
+  background: url(https://images4.alphacoders.com/671/671021.jpg) no-repeat top center fixed;
   background-size: cover;
 }
 
